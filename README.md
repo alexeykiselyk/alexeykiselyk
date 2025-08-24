@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @alexeykiselyk
-- 💻 I’m interested in quantum annealing applications
-- 🌱 I’m currently learning physics at the University of Warwick
-- 😎 I’m looking to collaborate on anything!
-- 📫 How to reach me: Alexey Kiselyk on LinkedIn
+@alexeykiselyk
+- muon spectroscopy
+- Durham
+- Alexey Kiselyk on Linkedin
 
 <!---
 alexeykiselyk/alexeykiselyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
