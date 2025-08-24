@@ -1,5 +1,5 @@
 @alexeykiselyk
-- muon spectroscopy
+- Muon Spectroscopy
 - Durham
 - Alexey Kiselyk on Linkedin
 
